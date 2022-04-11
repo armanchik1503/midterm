@@ -1,1 +1,3 @@
 # midterm
+
+GOLANG midterm work
